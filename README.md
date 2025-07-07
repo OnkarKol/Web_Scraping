@@ -4,7 +4,7 @@ This project focuses on applying web scraping techniques using Python to extract
 
 * Project Overview:
 Objective:
-Scrape, filter, and analyze data for movies and TV shows from JustWatch, extracting details like title, genre, IMDb rating, and streaming services.
+Scrape, filter, and analyze data for movies and TV shows from JustWatch. extracting details like title, genre, IMDb rating, and streaming services.
 
 * Topics Covered:
  
